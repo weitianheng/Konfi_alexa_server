@@ -1,0 +1,6 @@
+[submodule "Konfi_alexa_skill"]
+	path = Konfi_alexa_skill
+	url = https://github.com/weitianheng/Konfi_alexa_skill
+[submodule "apps/konfi_skill"]
+	path = apps/konfi_skill
+	url = https://github.com/weitianheng/Konfi_alexa_skill
