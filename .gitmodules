@@ -4,3 +4,6 @@
 [submodule "apps/konfi_skill"]
 	path = apps/konfi_skill
 	url = https://github.com/weitianheng/Konfi_alexa_skill
+[submodule "apps/testApp"]
+	path = apps/testApp
+	url = https://github.com/weitianheng/Konfi_alexa_testApp.git

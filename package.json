@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/weitianheng/Konfi_alexa_server/issues"
   },
-  "homepage": "https://github.com/weitianheng/Konfi_alexa_server#readme"
+  "homepage": "https://github.com/weitianheng/Konfi_alexa_server#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.0",
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {}
 }
